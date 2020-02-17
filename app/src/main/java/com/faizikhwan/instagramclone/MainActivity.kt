@@ -2,6 +2,7 @@ package com.faizikhwan.instagramclone
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.faizikhwan.instagramclone.ui.home.HomeFragment
 
 class MainActivity : AppCompatActivity() {
 
